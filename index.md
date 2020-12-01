@@ -20,12 +20,11 @@ Please read this privacy notice carefully as it will help you understand what we
 
 
 1. WHAT INFORMATION DO WE COLLECT?
-We collect no information from you.
+We collect no information from you. Any payment information provided is accessible to Marqet and is not stored.
 
 2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
 
 We will not share your information with anyone
-In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
 
 3. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?     
 
