@@ -6,7 +6,7 @@ This app is intended to provide individuals the opportunity to sell goods by cre
 
 For support or inquiries, please reach out to marqetapp@gmail.com
 
-## PRIVACY NOTICE
+## Privacy Policy
 
 Last updated November 30, 2020
 
@@ -18,13 +18,6 @@ This privacy notice applies to all information collected through our Services (w
 
 Please read this privacy notice carefully as it will help you understand what we do with the information that we collect.
 
-TABLE OF CONTENTS
-
-1. WHAT INFORMATION DO WE COLLECT?
-2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
-3. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
-4. HOW LONG DO WE KEEP YOUR INFORMATION?
-5. DO WE MAKE UPDATES TO THIS NOTICE?
 
 1. WHAT INFORMATION DO WE COLLECT?
 We collect no information from you.
@@ -34,12 +27,9 @@ We collect no information from you.
 We will not share your information with anyone
 In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
 
-
 3. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?     
 
-No.
-
-Our servers are located in the US. 
+No. Our servers are located in the US. 
 
 4. HOW LONG DO WE KEEP YOUR INFORMATION?
 
