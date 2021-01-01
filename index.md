@@ -1,6 +1,6 @@
-## Welcome to the Marqet App Test
+## Welcome to the Marqet App
 
-This app is intended to provide individuals the opportunity to sell goods by creating a digital menu and then allowing others to select others from that menu and complete payments through the app.
+This app is intended to provide individuals the opportunity to sell goods by creating a digital menu and then allowing others to select items from that menu and complete payments through the app. Think of it as a digital farmers market.
 
 ## Contact
 
